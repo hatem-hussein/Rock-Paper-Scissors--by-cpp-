@@ -2,7 +2,7 @@
 
 # Rock Paper Scissors (C++)
 
-This is a console-based Rock Paper Scissors game written in C++.
+This Is A Console Based Rock Paper Scissors Game Written In C++.
 
 ## Features
  Player vs Computer
